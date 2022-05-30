@@ -1,0 +1,12 @@
+{
+	"name": "demolikedservice",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=rajeshdemo;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDc2QUJCRjQ1LUFEQTktNEU2MS04MUY3LTVBNDM1MjFBMzU3RF8wNzUzYzVkNy04N2M5LTRkMWQtOWE4NS1jYjM3ZjA3NjUzNDQiDQp9"
+		}
+	}
+}
